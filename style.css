@@ -1,4 +1,19 @@
 #timer {
     text-align: right;
-};
+}
 
+#choices {
+    display: none;
+}
+
+#scoreSave {
+    display: none;
+}
+
+#highscores {
+    display: none;
+}
+.btn{
+    
+    background-color: blueviolet;
+}
